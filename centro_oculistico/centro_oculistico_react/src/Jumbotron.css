@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url('foto.jpg') ;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+

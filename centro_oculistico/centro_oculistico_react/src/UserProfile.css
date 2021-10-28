@@ -1,0 +1,23 @@
+.userProfile{
+    width: 60%;
+    margin-left: 20%;
+
+
+}
+
+.data{
+    float: left;
+    margin-left: 5px;
+}
+
+.data1{
+    float: right;
+}
+
+.pass{
+    -webkit-text-security: disc;
+}
+
+.show{
+    -webkit-text-security: initial;
+}

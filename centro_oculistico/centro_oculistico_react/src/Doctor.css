@@ -1,0 +1,19 @@
+.doctor{
+    width: 60%;
+    margin-left: 20%;
+
+
+}
+
+.doctorTable{
+    background-color: white;
+}
+
+.data{
+    float: left;
+    margin-left: 5px;
+}
+
+#hiddenButton{
+    display: none;
+}
